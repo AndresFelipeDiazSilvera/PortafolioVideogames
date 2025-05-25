@@ -1,0 +1,30 @@
+[
+  {
+		"dates": "Mayo 19 2025 · Mayo 20 2025 ",
+		"role": "Gameplay Programmer",
+		"company": "Generation Colombia",
+		"description": "•Participé en el desarrollo del videojuego My Sandwich, Please! para la game jam con temática Assemble de Generation Colombia. Fui responsable de la programación principal del gameplay. Implementé el sistema de movimiento del jugador, permitiendo una experiencia fluida e intuitiva, y desarrollé la lógica para la generación aleatoria de pedidos, asegurando que cada sándwich requerido fuese distinto en cada partida, aumentando la rejugabilidad y el reto. El juego fue creado con Unity y C#, priorizando la interactividad, la creatividad y la diversión en la mecánica de armado de sándwiches.",
+		"logo": "/assets/images/experiences/logo-generation.ico"
+	},
+  {
+		"dates": "Mayo 9 2025 · Mayo 13 2025 ",
+		"role": "Mechanics Programmer",
+		"company": "Generation Colombia",
+		"description": "•Participé en el desarrollo del videojuego Howl of Liberty para la game jam con temática You Are The Dungeon de Generation Colombia, donde fui responsable del diseño y la programación de las mecánicas de los enemigos y del jefe final. Implementé el sistema de hordas enemigas, que aparecen progresivamente para atacar al jugador, así como la lógica del jefe final, quien persigue y desafía constantemente al jugador en tiempo real. Todo el sistema fue desarrollado en Unity utilizando C#, garantizando una experiencia dinámica e inmersiva.",
+		"logo": "/assets/images/experiences/logo-generation.ico"
+	},
+	{
+		"dates": "Mayo 2024 · Noviembre 2024",
+		"role": "Pasante Ingenierio de Sistemas",
+		"company": "COMFABOY",
+		"description": "•Implementé una metodología basada en TOGAF para fortalecer la gestión del conocimiento de los sistemas de información, mejorando la eficiencia operativa en un 30%.",
+		"logo": "/assets/images/experiences/logo-comfaboy.ico"
+	},
+	{
+		"dates": "Agosto 2023 · Noviembre 2023",
+		"role": "Desarrollador Junior Front-end",
+		"company": "Hit Data S.A.S",
+		"description": "•Desarrollé la interfaz de usuario de una plataforma web informativa sobre elecciones regionales, mejorando su apariencia, accesibilidad y usabilidad mediante el uso de tecnologías como ReactJS, Tailwind CSS, React Hooks, NodeJS, TypeScript, JSON y HTML.",
+		"logo": "/assets/images/experiences/hit-data-sas.ico"
+	}
+]

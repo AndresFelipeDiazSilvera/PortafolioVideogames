@@ -1,0 +1,44 @@
+[
+	{
+		"name": "My Sandwich, Please! ",
+		"description": "Arma sándwiches deliciosos para tus clientes.",
+		"image": "/assets/images/projects/logo sandwich.png",
+		"url": "https://yersonelgris.itch.io/mysandwichplease"
+	},
+	{
+		"name": "HOWL OF LIBERTY",
+		"description": "Explora, sobrevive y reclama tu libertad.",
+		"image": "/assets/images/projects/HOWL.png",
+		"url": "https://juanin96.itch.io/howl-of-liberty"
+	},
+	{
+		"name": "Super Space-Stronaut",
+		"description": "videojuego 2D que consiste en recorrer una nave espacial y destruir enemigos.",
+		"image": "/assets/images/projects/space.png",
+		"url": "https://d1asu.itch.io/super-space"
+	},
+	{
+		"name": "Village Game",
+		"description": "Recolecta materiales, genera aliados y destruye enemigos.",
+		"image": "/assets/images/projects/village.jpg",
+		"url": "https://github.com/Santiago-hernandez-Molina/VillageGame"
+	},
+  {
+		"name": "Space Blaster!",
+		"description": "Videojuego en 2D donde debes destruir naves enemigas.",
+		"image": "/assets/images/projects/blaster.png",
+		"url": "https://d1asu.itch.io/2d-shooter"
+	},
+	{
+		"name": "Triqui Comida",
+		"description": "Prototipo en 3D sobre mecanicas e interfaces.",
+		"image": "/assets/images/projects/triqui comida.png",
+		"url": "https://d1asu.itch.io/triqui-comida"
+	},
+	{
+		"name": "Football Challenge",
+		"description": "Prototipo en 3D sobre aprender diferentes mecanicas de Unity.",
+		"image": "/assets/images/projects/football.png",
+		"url": "https://d1asu.itch.io/football-challenge"
+	}
+]
