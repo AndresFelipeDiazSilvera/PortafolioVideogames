@@ -1,4 +1,10 @@
 [
+  {
+		"name": "Wind Mayhem",
+		"description": "Divierte con la mecanica de viento en 3 diferentes minijuegos.",
+		"image": "/assets/images/projects/Mayhem.png",
+		"url": "https://tayronagames.itch.io/wind-mayhem"
+	},
 	{
 		"name": "My Sandwich, Please! ",
 		"description": "Arma sándwiches deliciosos para tus clientes.",
